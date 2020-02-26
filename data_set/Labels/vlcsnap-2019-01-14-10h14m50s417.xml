@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>vlcsnap-2019-01-14-10h14m50s417.png</filename>
+	<path>C:\Users\dian_\Desktop\Skripsi\YOLO_v1\data\data_set\Images\vlcsnap-2019-01-14-10h14m50s417.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>228</ymin>
+			<xmax>342</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
